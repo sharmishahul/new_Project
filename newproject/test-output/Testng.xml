@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="bookmyshow">
+	<test name="test">
+		<classes>
+			<class name="org.mavenpro.BookMyShow">
+				
+			</class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15817" started-at="2023-05-16T01:39:57 IST" finished-at="2023-05-16T01:40:13 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15817" started-at="2023-05-16T01:39:57 IST" finished-at="2023-05-16T01:40:13 IST">
+      <class name="org.mavenpro.Nykaa_testngpractice">
+        <test-method status="PASS" signature="browser()[pri:0, instance:org.mavenpro.Nykaa_testngpractice@7a3d45bd]" name="browser" duration-ms="2270" started-at="2023-05-16T01:39:58 IST" finished-at="2023-05-16T01:40:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="url()[pri:1, instance:org.mavenpro.Nykaa_testngpractice@7a3d45bd]" name="url" duration-ms="4743" started-at="2023-05-16T01:40:00 IST" finished-at="2023-05-16T01:40:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="women()[pri:2, instance:org.mavenpro.Nykaa_testngpractice@7a3d45bd]" name="women" duration-ms="2482" started-at="2023-05-16T01:40:05 IST" finished-at="2023-05-16T01:40:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- women -->
+        <test-method status="PASS" signature="allwindow()[pri:3, instance:org.mavenpro.Nykaa_testngpractice@7a3d45bd]" name="allwindow" duration-ms="168" started-at="2023-05-16T01:40:07 IST" finished-at="2023-05-16T01:40:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allwindow -->
+        <test-method status="PASS" signature="dress()[pri:4, instance:org.mavenpro.Nykaa_testngpractice@7a3d45bd]" name="dress" duration-ms="5505" started-at="2023-05-16T01:40:07 IST" finished-at="2023-05-16T01:40:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dress -->
+        <test-method status="PASS" signature="select()[pri:5, instance:org.mavenpro.Nykaa_testngpractice@7a3d45bd]" name="select" duration-ms="597" started-at="2023-05-16T01:40:13 IST" finished-at="2023-05-16T01:40:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select -->
+      </class> <!-- org.mavenpro.Nykaa_testngpractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
